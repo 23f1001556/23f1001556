@@ -1,37 +1,91 @@
 # Hey there 👋
 
-I’m **Sidhant**, a full-stack developer focused on backend systems.  
+I'm **Sidhant Kumar**, a Computer Science and Data Science undergraduate passionate about **backend engineering, scalable systems, and AI-powered applications**.
 
-I mostly work on **building scalable APIs, backend architectures, and integrating AI into web applications**.  
-My stack includes **Flask, Node.js (Express), Vue.js, PostgreSQL, and Redis**, focused on building scalable full-stack applications.
+Currently pursuing:
 
-This is where I share **projects I’m building, experiments, and things I’m currently exploring**.  
-Everything here is built with a focus on **real-world use cases and clean architecture**.
+* B.Tech in Computer Science & Engineering at Techno India University
+* B.S. in Data Science and Applications at IIT Madras
 
----
-
-## 🛠️ Tools & Tech
-
-- **Languages:** Python, Java, JavaScript, SQL  
-- **Backend:** Flask, Node.js, Express  
-- **Frontend:** Vue.js, React.js, Next.js  
-- **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
-- **Tools:** Git, Linux, Render, Vercel  
+I enjoy building production-ready systems that solve real-world problems — from low-latency REST APIs and distributed caching solutions to AI-assisted platforms and cloud deployments.
 
 ---
 
-## 💡 A Bit About Me
+## 🚀 What I'm Working On
 
-- Interested in **backend engineering & system design**  
-- Currently exploring **system design** and working towards becoming a strong backend engineer  
-- Exploring **AI-powered applications**  
-- Enjoy solving **real-world problems through code**  
-- I like building **systems that are scalable and practical** 🚀  
+### BS Connect
+
+A professional networking platform built for the IIT Madras BS community.
+
+* Built using Next.js, Spring Boot, PostgreSQL, Redis, and Google OAuth2
+* Optimized database performance by eliminating N+1 query bottlenecks
+* Reduced image bandwidth usage by 90% through server-side compression
+* Deployed and managed production infrastructure on Oracle Cloud with Nginx and Ubuntu
+
+### Campus IQ
+
+An AI-powered assessment platform.
+
+* Multi-tenant architecture with secure schema isolation
+* RBAC-based access management
+* AI-generated quizzes using Google Gemini
+* Automated evaluation and scoring workflows
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack
 
-- **Email:** sidhantsksk@gmail.com  
-- **LinkedIn:** [linkedin.com/in/sidhantkumarsk](https://linkedin.com/in/sidhantkumarsk)  
-- **Portfolio:** [portfolio-r6l4.vercel.app](https://portfolio-r6l4.vercel.app)
+### Languages
+
+Python • Java • JavaScript • SQL • Shell Scripting
+
+### Backend
+
+Flask • Spring Boot • SQLAlchemy • Hibernate • REST APIs
+
+### Frontend
+
+React • Next.js • Vue.js • HTML • CSS • Bootstrap
+
+### Databases
+
+PostgreSQL • Redis
+
+### Cloud & DevOps
+
+Ubuntu • Git • GitHub Actions • Oracle Cloud • Vercel • Firebase • Cloudinary
+
+### AI & Automation
+
+Google Gemini API • Prompt Engineering • AI-Assisted Development Workflows
+
+---
+
+## 🎯 Interests
+
+* Backend Engineering
+* Distributed Systems
+* Database Design & Query Optimization
+* System Design
+* Cloud Infrastructure
+* AI-Augmented Applications
+
+---
+
+## 📈 Current Focus
+
+* Building scalable backend systems
+* Deepening system design knowledge
+* Exploring distributed architectures and caching strategies
+* Leveraging AI to accelerate software development
+
+---
+
+## 📫 Connect With Me
+
+* Email: [sidhantsksk@gmail.com](mailto:sidhantsksk@gmail.com)
+* LinkedIn: linkedin.com/in/sidhantkumarsk
+* GitHub: github.com/23f1001556
+* Portfolio: portfolio-r6l4.vercel.app
+
+Thanks for stopping by! 🚀
