@@ -15,12 +15,13 @@ I enjoy building production-ready systems that solve real-world problems — fro
 
 ### BS Connect
 
-A professional networking platform built for the IIT Madras BS community.
+A high-performance professional networking platform built for the IIT Madras BS community.
 
-* Built using Next.js, Spring Boot, PostgreSQL, Redis, and Google OAuth2
-* Optimized database performance by eliminating N+1 query bottlenecks
-* Reduced image bandwidth usage by 90% through server-side compression
-* Deployed and managed production infrastructure on Oracle Cloud with Nginx and Ubuntu
+* **Decoupled Architecture:** Built using Next.js PWA and Spring Boot REST API, synchronized via a custom cross-subdomain SSO cookie handshake.
+* **Database Optimization:** Resolved N+1 query bottlenecks using JPQL Join Fetches (achieving ~99% query reduction) and handled lazy collection cartesian products with `@BatchSize` batch loading.
+* **High-Throughput Caching:** Migrated session store to Redis (dropping lookup latency from 50ms to <1ms) with a custom GZIP serialization filter that reduced memory footprint by 60%–80%.
+* **Edge Delivery & Offline Resiliency:** Decreased image bandwidth consumption by ~95% using Cloudinary dynamic format/compression transforms, and integrated Workbox service workers for offline-first bootstrapping.
+* **Production Infrastructure:** Deployed and managed production services on Oracle Cloud, featuring Nginx SSL termination, Gzip compressions, and systemd process supervision.
 
 ### Campus IQ
 
@@ -89,3 +90,4 @@ Google Gemini API • Prompt Engineering • AI-Assisted Development Workflows
 * Portfolio: portfolio-r6l4.vercel.app
 
 Thanks for stopping by! 🚀
+
