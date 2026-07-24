@@ -239,7 +239,7 @@
 
 <div align="center">
   <h4>💻 LeetCode Contribution Heatmap</h4>
-  <img src="https://leetcard.jacoblin.cool/sidhantsksk?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Heatmap" width="100%" />
+  <img src="https://leetcard.jacoblin.cool/sidhantsksk?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Heatmap" width="500" />
 </div>
 
 ---
