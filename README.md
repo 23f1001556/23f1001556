@@ -11,9 +11,9 @@
       <p>
         <a href="https://linkedin.com/in/sidhantkumarsk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         &nbsp;&nbsp;
-        <a href="https://leetcode.com/23f1001556"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+        <a href="https://leetcode.com/u/sidhantsksk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
         &nbsp;&nbsp;
-        <a href="https://www.hackerrank.com/profile/23f1001556"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+        <a href="https://www.hackerrank.com/profile/sidhantsksk"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
         &nbsp;&nbsp;
         <a href="mailto:sidhantsksk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
       </p>
@@ -116,7 +116,7 @@
       </td>
       <td valign="top">
         <a href="https://github.com/23f1001556/bs-connect-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a><br/>
-        <a href="https://your-deployed-app-link.com"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" /></a>
+        <a href="https://www.bsconnect.app/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" /></a>
       </td>
     </tr>
     <tr>
@@ -138,7 +138,8 @@
         <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
       </td>
       <td valign="top">
-        <a href="https://github.com/23f1001556/ai-assessment-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+        <a href="https://github.com/23f1001556/ai-assessment-platform"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="GitHub" /></a><br/>
+        <a href="https://quizv2-tau.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Live Demo" /></a>
       </td>
     </tr>
     <tr>
