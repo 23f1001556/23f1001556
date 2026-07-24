@@ -10,7 +10,7 @@
   <tr>
     <td valign="top" width="55%">
       <h3>💫 About Me</h3>
-      <p>I am a dedicated <strong>Software Engineer</strong> focusing on high-performance backend systems and Generative AI applications. I specialize in building scalable and low-latency APIs, database optimization, and cloud-native deployments. I am actively targeting SDE roles where I can leverage my backend engineering skills to build robust software systems.</p>
+      <p>I am a <strong>Software Engineer (Full-Stack)</strong> with a strong backend focus. Experienced in building robust REST APIs, secure authentication systems, database optimizations, and scalable Generative AI integrations. <strong>Actively seeking SDE opportunities!</strong></p>
       <p>
         <a href="https://linkedin.com/in/sidhantkumarsk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         &nbsp;&nbsp;
@@ -196,6 +196,22 @@
         &nbsp;
         <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
           <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="75" height="75" alt="GCP ML APIs" />
+        </a>
+        &nbsp;
+        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+          <img src="cloud_cert.png" height="75" alt="HackerRank Cloud" />
+        </a>
+        &nbsp;
+        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+          <img src="java_basic_cert.png" height="75" alt="HackerRank Java Basic" />
+        </a>
+        &nbsp;
+        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+          <img src="python_basic_cert.png" height="75" alt="HackerRank Python Basic" />
+        </a>
+        &nbsp;
+        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+          <img src="sql_advanced_cert.png" height="75" alt="HackerRank SQL Advanced" />
         </a>
       </p>
       <br/>
