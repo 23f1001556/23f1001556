@@ -19,15 +19,19 @@
       </p>
     </td>
     <td valign="top" width="45%">
-      <h3>🎓 Education & Certifications</h3>
+      <h3>🎓 Education</h3>
       <ul>
         <li><strong>IIT Madras</strong><br/>B.S. in Data Science & Applications (2023 - Present)</li>
         <li><strong>Techno India University</strong><br/>B.Tech in CSE - AI (2022 - 2026)</li>
-        <li>🏆 <strong>HackerRank Certified</strong>: Problem Solving, Python, Java, SQL (Advanced), SDE</li>
+      </ul>
+      <h3>🏆 Certifications</h3>
+      <ul>
+        <li><strong>HackerRank Certified</strong>: Problem Solving, Python, Java, SQL (Advanced), SDE</li>
       </ul>
       <details>
         <summary><strong>☁️ Google Cloud & GenAI Badges (11)</strong></summary>
         <ul style="margin-top: 5px;">
+          <li>🔗 <strong><a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">Verify Badges on Credly Profile</a></strong></li>
           <li>🔗 <strong><a href="https://www.skills.google/public_profiles/5a6346f8-b538-4ef0-bfee-475175a1c0d0" target="_blank">Verify Badges on Google Cloud Profile</a></strong></li>
           <li>Level 3 GenAI: Prompt Engineering</li>
           <li>Introduction to Large Language Models</li>
