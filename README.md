@@ -186,23 +186,23 @@
           <p align="center" style="margin-top: 10px;">
             <!-- Verified Google Cloud Badge Images -->
             <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/size/90x90/images/6df058b8-b80c-4e89-be26-25f0e97db156/image.png" width="80" height="80" alt="GCP Foundations" />
+              <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="80" height="80" alt="GCP Foundations" />
             </a>
             &nbsp;
             <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/size/90x90/images/30cc0df4-c09a-4632-b2d9-a78b4081014e/image.png" width="80" height="80" alt="GCP Secure Network" />
+              <img src="https://images.credly.com/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="80" height="80" alt="GCP Secure Network" />
             </a>
             &nbsp;
             <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/size/90x90/images/b9cf80c8-e047-4951-b847-0610360a87a7/image.png" width="80" height="80" alt="GCP Load Balancing" />
+              <img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="80" height="80" alt="GCP Load Balancing" />
             </a>
             &nbsp;
             <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/size/90x90/images/47e4b5bb-dfbe-4764-a035-778fe8b1d9bf/image.png" width="80" height="80" alt="GCP App Dev" />
+              <img src="https://images.credly.com/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="80" height="80" alt="GCP App Dev" />
             </a>
             &nbsp;
             <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/size/90x90/images/e6f987cf-4547-4638-b788-b2ef474149bc/image.png" width="80" height="80" alt="GCP ML APIs" />
+              <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="80" height="80" alt="GCP ML APIs" />
             </a>
           </p>
           <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
