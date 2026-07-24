@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3500&pause=1000&color=7928CA&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I%27m+Sidhant+Kumar;Software+Engineer;Backend+Full stack engineer;AI+Applications" alt="Typing SVG" />
 </p>
@@ -24,8 +25,8 @@
     <td valign="top" width="45%">
       <h3>🎓 Education</h3>
       <ul>
-        <li><strong>Indian Institute of Technology Madras</strong><br/>Bachelor of Science in Data Science & Applications (2023 - Present)</li>
-        <li><strong>Techno India University</strong><br/>Bachelor of Technology in Computer Science and Engineering - Artificial Intelligence (2022 - 2026)</li>
+        <li><strong>Indian Institute of Technology Madras</strong><br/>B.S. in Data Science & Applications (2023 - Present)</li>
+        <li><strong>Techno India University</strong><br/>B.Tech in Computer Science and Engineering - Artificial Intelligence (2022 - 2026)</li>
       </ul>
     </td>
   </tr>
