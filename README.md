@@ -19,13 +19,29 @@
       </p>
     </td>
     <td valign="top" width="45%">
-      <h3>🎓 Education</h3>
+      <h3>🎓 Education & Certifications</h3>
       <ul>
         <li><strong>IIT Madras</strong><br/>B.S. in Data Science & Applications (2023 - Present)</li>
         <li><strong>Techno India University</strong><br/>B.Tech in CSE - AI (2022 - 2026)</li>
-        <li>📜 <strong>Introduction to Cloud Computing</strong> (DevOps)</li>
         <li>🏆 <strong>HackerRank Certified</strong>: Problem Solving, Python, Java, SQL (Advanced), SDE</li>
       </ul>
+      <details>
+        <summary><strong>☁️ Google Cloud & GenAI Badges (11)</strong></summary>
+        <ul style="margin-top: 5px;">
+          <li>🔗 <strong><a href="https://www.skills.google/public_profiles/5a6346f8-b538-4ef0-bfee-475175a1c0d0" target="_blank">Verify Badges on Google Cloud Profile</a></strong></li>
+          <li>Level 3 GenAI: Prompt Engineering</li>
+          <li>Introduction to Large Language Models</li>
+          <li>Introduction to Generative AI</li>
+          <li>Prepare Data for ML APIs on Google Cloud</li>
+          <li>Build a Secure Google Cloud Network</li>
+          <li>Set Up an App Dev Environment on Google Cloud</li>
+          <li>Implementing Cloud Load Balancing for Compute Engine</li>
+          <li>Google Cloud Computing Foundations: Data, ML, and AI</li>
+          <li>Google Cloud Computing Foundations: Networking & Security</li>
+          <li>Google Cloud Computing Foundations: Infrastructure</li>
+          <li>Google Cloud Computing Foundations: Cloud Computing Fundamentals</li>
+        </ul>
+      </details>
     </td>
   </tr>
 </table>
