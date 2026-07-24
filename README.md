@@ -173,38 +173,34 @@
   <tr>
     <td valign="top" width="50%">
       <h4>🏆 Certifications</h4>
-      <ul>
-        <li><strong>HackerRank Certified</strong>: Problem Solving, Python, Java, SQL (Advanced), SDE</li>
-      </ul>
+      <p align="left" style="margin-top: 10px;">
+        <!-- Verified Google Cloud Badge Images -->
+        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+          <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="75" height="75" alt="GCP Foundations" />
+        </a>
+        &nbsp;
+        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+          <img src="https://images.credly.com/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="75" height="75" alt="GCP Secure Network" />
+        </a>
+        &nbsp;
+        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+          <img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="75" height="75" alt="GCP Load Balancing" />
+        </a>
+        &nbsp;
+        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+          <img src="https://images.credly.com/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="75" height="75" alt="GCP App Dev" />
+        </a>
+        &nbsp;
+        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+          <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="75" height="75" alt="GCP ML APIs" />
+        </a>
+      </p>
       <br/>
       <details>
         <summary><strong>☁️ Google Cloud & GenAI Badges (11)</strong></summary>
         <ul style="margin-top: 5px; list-style-type: none; padding-left: 0;">
           <li>🔗 <strong><a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">Verify Badges on Credly Profile</a></strong></li>
           <li>🔗 <strong><a href="https://www.skills.google/public_profiles/5a6346f8-b538-4ef0-bfee-475175a1c0d0" target="_blank">Verify Badges on Google Cloud Profile</a></strong></li>
-          <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
-          <p align="center" style="margin-top: 10px;">
-            <!-- Verified Google Cloud Badge Images -->
-            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="80" height="80" alt="GCP Foundations" />
-            </a>
-            &nbsp;
-            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="80" height="80" alt="GCP Secure Network" />
-            </a>
-            &nbsp;
-            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="80" height="80" alt="GCP Load Balancing" />
-            </a>
-            &nbsp;
-            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="80" height="80" alt="GCP App Dev" />
-            </a>
-            &nbsp;
-            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-              <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="80" height="80" alt="GCP ML APIs" />
-            </a>
-          </p>
           <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
           <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Level 3 GenAI: Prompt Engineering</li>
           <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Large Language Models</li>
