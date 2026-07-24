@@ -1,4 +1,3 @@
-
 <h1 align="center">Sidhant Kumar</h1>
 <p align="center">
   <strong>Software Engineer | Backend Specialist | AI Applications</strong>
