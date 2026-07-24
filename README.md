@@ -190,7 +190,7 @@
 ---
 
 <h3 align="center">📊 LeetCode Stats & Contribution Heatmap</h3>
-  <p>
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/sidhantsksk?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Heatmap" width="50%" />
 </p>
 
