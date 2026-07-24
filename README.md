@@ -1,6 +1,9 @@
-<h1 align="center">Sidhant Kumar</h1>
 <p align="center">
-  <strong>Software Engineer | Backend Specialist | AI Applications</strong>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3500&pause=1000&color=7928CA&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I'm+Sidhant+Kumar+👋;Software+Engineer;Backend+Specialist;AI+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Mario Running" width="100%" />
 </p>
 
 <table border="0">
