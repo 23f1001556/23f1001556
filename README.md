@@ -183,6 +183,29 @@
           <li>🔗 <strong><a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">Verify Badges on Credly Profile</a></strong></li>
           <li>🔗 <strong><a href="https://www.skills.google/public_profiles/5a6346f8-b538-4ef0-bfee-475175a1c0d0" target="_blank">Verify Badges on Google Cloud Profile</a></strong></li>
           <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
+          <p align="center" style="margin-top: 10px;">
+            <!-- Verified Google Cloud Badge Images -->
+            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+              <img src="https://images.credly.com/size/90x90/images/6df058b8-b80c-4e89-be26-25f0e97db156/image.png" width="80" height="80" alt="GCP Foundations" />
+            </a>
+            &nbsp;
+            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+              <img src="https://images.credly.com/size/90x90/images/30cc0df4-c09a-4632-b2d9-a78b4081014e/image.png" width="80" height="80" alt="GCP Secure Network" />
+            </a>
+            &nbsp;
+            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+              <img src="https://images.credly.com/size/90x90/images/b9cf80c8-e047-4951-b847-0610360a87a7/image.png" width="80" height="80" alt="GCP Load Balancing" />
+            </a>
+            &nbsp;
+            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+              <img src="https://images.credly.com/size/90x90/images/47e4b5bb-dfbe-4764-a035-778fe8b1d9bf/image.png" width="80" height="80" alt="GCP App Dev" />
+            </a>
+            &nbsp;
+            <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+              <img src="https://images.credly.com/size/90x90/images/e6f987cf-4547-4638-b788-b2ef474149bc/image.png" width="80" height="80" alt="GCP ML APIs" />
+            </a>
+          </p>
+          <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
           <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Level 3 GenAI: Prompt Engineering</li>
           <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Large Language Models</li>
           <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Generative AI</li>
