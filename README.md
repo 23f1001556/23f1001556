@@ -132,7 +132,7 @@
       <td valign="top">
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&vueColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /><br/>
         <img src="https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
       </td>
       <td valign="top">
@@ -179,20 +179,21 @@
       <br/>
       <details>
         <summary><strong>☁️ Google Cloud & GenAI Badges (11)</strong></summary>
-        <ul style="margin-top: 5px;">
+        <ul style="margin-top: 5px; list-style-type: none; padding-left: 0;">
           <li>🔗 <strong><a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">Verify Badges on Credly Profile</a></strong></li>
           <li>🔗 <strong><a href="https://www.skills.google/public_profiles/5a6346f8-b538-4ef0-bfee-475175a1c0d0" target="_blank">Verify Badges on Google Cloud Profile</a></strong></li>
-          <li>Level 3 GenAI: Prompt Engineering</li>
-          <li>Introduction to Large Language Models</li>
-          <li>Introduction to Generative AI</li>
-          <li>Prepare Data for ML APIs on Google Cloud</li>
-          <li>Build a Secure Google Cloud Network</li>
-          <li>Set Up an App Dev Environment on Google Cloud</li>
-          <li>Implementing Cloud Load Balancing for Compute Engine</li>
-          <li>Google Cloud Computing Foundations: Data, ML, and AI</li>
-          <li>Google Cloud Computing Foundations: Networking & Security</li>
-          <li>Google Cloud Computing Foundations: Infrastructure</li>
-          <li>Google Cloud Computing Foundations: Cloud Computing Fundamentals</li>
+          <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Level 3 GenAI: Prompt Engineering</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Large Language Models</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Generative AI</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Prepare Data for ML APIs on Google Cloud</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Build a Secure Google Cloud Network</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Set Up an App Dev Environment on Google Cloud</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Implementing Cloud Load Balancing for Compute Engine</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Data, ML, and AI</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Networking & Security</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Infrastructure</li>
+          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Cloud Computing Fundamentals</li>
         </ul>
       </details>
     </td>
