@@ -172,75 +172,74 @@
 
 <h3 align="center">📊 LeetCode Stats & Certifications</h3>
 
-<table border="0" width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🏆 Certifications</h4>
-      <p align="left" style="margin-top: 10px;">
-        <!-- Verified Google Cloud Badge Images -->
-        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-          <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="75" height="75" alt="GCP Foundations" />
-        </a>
-        &nbsp;
-        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-          <img src="https://images.credly.com/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="75" height="75" alt="GCP Secure Network" />
-        </a>
-        &nbsp;
-        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-          <img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="75" height="75" alt="GCP Load Balancing" />
-        </a>
-        &nbsp;
-        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-          <img src="https://images.credly.com/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="75" height="75" alt="GCP App Dev" />
-        </a>
-        &nbsp;
-        <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
-          <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="75" height="75" alt="GCP ML APIs" />
-        </a>
-        &nbsp;
-        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
-          <img src="cloud_cert.png" height="75" alt="HackerRank Cloud" />
-        </a>
-        &nbsp;
-        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
-          <img src="java_basic_cert.png" height="75" alt="HackerRank Java Basic" />
-        </a>
-        &nbsp;
-        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
-          <img src="python_basic_cert.png" height="75" alt="HackerRank Python Basic" />
-        </a>
-        &nbsp;
-        <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
-          <img src="sql_advanced_cert.png" height="75" alt="HackerRank SQL Advanced" />
-        </a>
-      </p>
-      <br/>
-      <details>
-        <summary><strong>☁️ Google Cloud & GenAI Badges (11)</strong></summary>
-        <ul style="margin-top: 5px; list-style-type: none; padding-left: 0;">
-          <li>🔗 <strong><a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">Verify Badges on Credly Profile</a></strong></li>
-          <li>🔗 <strong><a href="https://www.skills.google/public_profiles/5a6346f8-b538-4ef0-bfee-475175a1c0d0" target="_blank">Verify Badges on Google Cloud Profile</a></strong></li>
-          <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Level 3 GenAI: Prompt Engineering</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Large Language Models</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Generative AI</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Prepare Data for ML APIs on Google Cloud</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Build a Secure Google Cloud Network</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Set Up an App Dev Environment on Google Cloud</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Implementing Cloud Load Balancing for Compute Engine</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Data, ML, and AI</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Networking & Security</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Infrastructure</li>
-          <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Cloud Computing Fundamentals</li>
-        </ul>
-      </details>
-    </td>
-    <td valign="top" width="50%" align="center">
-      <h4>💻 LeetCode Contribution Heatmap</h4>
-      <img src="https://leetcard.jacoblin.cool/sidhantsksk?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Heatmap" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <h4>🏆 Certifications</h4>
+  <p align="left" style="margin-top: 10px;">
+    <!-- Verified Google Cloud Badge Images -->
+    <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+      <img src="https://images.credly.com/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png" width="75" height="75" alt="GCP Foundations" />
+    </a>
+    &nbsp;
+    <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+      <img src="https://images.credly.com/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png" width="75" height="75" alt="GCP Secure Network" />
+    </a>
+    &nbsp;
+    <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+      <img src="https://images.credly.com/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="75" height="75" alt="GCP Load Balancing" />
+    </a>
+    &nbsp;
+    <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+      <img src="https://images.credly.com/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png" width="75" height="75" alt="GCP App Dev" />
+    </a>
+    &nbsp;
+    <a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">
+      <img src="https://images.credly.com/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png" width="75" height="75" alt="GCP ML APIs" />
+    </a>
+    &nbsp;
+    <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+      <img src="cloud_cert.png" height="75" alt="HackerRank Cloud" />
+    </a>
+    &nbsp;
+    <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+      <img src="java_basic_cert.png" height="75" alt="HackerRank Java Basic" />
+    </a>
+    &nbsp;
+    <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+      <img src="python_basic_cert.png" height="75" alt="HackerRank Python Basic" />
+    </a>
+    &nbsp;
+    <a href="https://www.hackerrank.com/profile/sidhantsksk" target="_blank">
+      <img src="sql_advanced_cert.png" height="75" alt="HackerRank SQL Advanced" />
+    </a>
+  </p>
+  <br/>
+  <details>
+    <summary><strong>☁️ Google Cloud & GenAI Badges (11)</strong></summary>
+    <ul style="margin-top: 5px; list-style-type: none; padding-left: 0;">
+      <li>🔗 <strong><a href="https://www.credly.com/users/sidhant-kumar.4fcef21a" target="_blank">Verify Badges on Credly Profile</a></strong></li>
+      <li>🔗 <strong><a href="https://www.skills.google/public_profiles/5a6346f8-b538-4ef0-bfee-475175a1c0d0" target="_blank">Verify Badges on Google Cloud Profile</a></strong></li>
+      <hr style="margin: 8px 0; border: 0; border-top: 1px solid #eee;"/>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Level 3 GenAI: Prompt Engineering</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Large Language Models</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Introduction to Generative AI</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Prepare Data for ML APIs on Google Cloud</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Build a Secure Google Cloud Network</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Set Up an App Dev Environment on Google Cloud</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Implementing Cloud Load Balancing for Compute Engine</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Data, ML, and AI</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Networking & Security</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Infrastructure</li>
+      <li><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" /> Google Cloud Computing Foundations: Cloud Computing Fundamentals</li>
+    </ul>
+  </details>
+</div>
+
+<br/>
+
+<div align="center">
+  <h4>💻 LeetCode Contribution Heatmap</h4>
+  <img src="https://leetcard.jacoblin.cool/sidhantsksk?theme=dark&font=Outfit&ext=heatmap" alt="LeetCode Heatmap" width="100%" />
+</div>
 
 ---
 
