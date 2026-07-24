@@ -1,10 +1,9 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&duration=3500&pause=1000&color=7928CA&center=true&vCenter=true&width=700&height=60&lines=Hi+there,+I%27m+Sidhant+Kumar;Software+Engineer;Backend+Full stack engineer;AI+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=30&amp;duration=3500&amp;pause=1000&amp;color=FF5722&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=60&amp;lines=Hi+there,+I%27m+Sidhant+Kumar;Software+Engineer;Backend+Full+stack+engineer;AI+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Mario Running" width="100%" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Mario Running" />
 </p>
 
 <table border="0">
